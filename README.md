@@ -1,60 +1,80 @@
-<h1 align="center">👋 Hi, I'm SEO GYU MIN</h1>
+<h1 align="center">✨ SEO GYU MIN ✨</h1>
+<p align="center">🙋‍♂️ Passionate Developer from Korea | 🎯 Always Learning & Building</p>
+
+<div align="center">
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sgm438@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:sgm0209@naver.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://Codgm.tistory.com/)](https://Codgm.tistory.com/)
+
+</div>
+
+---
+
+## 🧰 Tech Stack & Tools
+
+<table align="center">
+  <tr>
+    <th>💻 Languages</th>
+    <th>🛠 Tools & Platforms</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+      <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1AB5FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer+from+Korea." />
+  <img src="https://github-readme-stats.vercel.app/api?username=Codgm&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codgm&layout=compact&theme=tokyonight&langs_count=6&hide=html" height="180"/>
 </p>
 
 ---
 
-## 🛠️ Skills & Tools
-
-| Languages | Tools & Platforms |
-| --------- | ---------------- |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white) |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codgm&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
-## 🧠 Baekjoon Solved Rank
+## 💯 BOJ Solved.ac
 
 <p align="center">
   <a href="https://solved.ac/sgm0922">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=sgm0922" alt="Solved.ac Profile" />
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=sgm0922" alt="solved.ac profile" />
   </a>
 </p>
 
 ---
 
-## 📌 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 📬 Contacts
+## 📌 Recently Worked On Repositories
 
 <p align="center">
-  <a href="https://Codgm.tistory.com/">
-    <img src="https://img.shields.io/badge/Tech%20Blog-black?style=flat-square&logo=github" />
-  </a>
-  <a href="mailto:sgm438@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:sgm0209@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codgm&repo=your-repo-name-1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codgm&repo=your-repo-name-2&theme=tokyonight" />
 </p>
 
+> 👉 *원하는 레포지토리 이름으로 your-repo-name-1 / 2 자리에 넣어주세요!*
+
+---
+
+## ✨ Fun Facts About Me
+
+- 🧠 알고리즘 공부를 좋아하고 백준 랭킹에도 진심입니다.
+- 🚀 새로운 기술을 빠르게 습득하고 프로젝트로 실천에 옮기는 타입!
+- 🌍 다양한 도구를 융합해 AI, 자동화, 플랫폼 서비스에 관심이 많아요.
+
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8A2BE2&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:1E90FF&height=120&section=footer"/>
 </p>
