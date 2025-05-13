@@ -65,10 +65,9 @@
 ---
 
 ## 📌 Recently Worked On Repositories
-> ⚠️ 직접 수정: 아래 `your-repo-name-1`, `your-repo-name-2`에 실제 레포 이름 입력!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codgm&repo=your-repo-name-1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codgm&repo=SE_Term_Project_Team8&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codgm&repo=your-repo-name-2&theme=tokyonight" />
 </p>
 
