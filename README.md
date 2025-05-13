@@ -1,4 +1,5 @@
 <h1 align="center">✨ SEO GYU MIN ✨</h1>
+<p align="center">🙋‍♂️ Passionate Developer from Korea | 🎯 Always Learning & Building</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1AB5FF&center=true&vCenter=true&width=435&lines=Hello!+I'm+Codgm+%F0%9F%91%8B;AI+%26+Software+Engineer;Loves+Problem+Solving+%26+Development" />
