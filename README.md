@@ -18,10 +18,28 @@
   </a>
 </p>
 
-## 💬 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codgm&layout=compact&theme=tokyonight&langs_count=6&hide=HTML,CSS&custom_title=My+Favorite+Languages" />
-</p>
+## 🧑‍💻 Languages & 💬 Most Used Languages
+
+<table>
+  <tr>
+    <!-- 왼쪽: 사용 언어 뱃지 -->
+    <td align="center" width="50%">
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+
+    <!-- 오른쪽: GitHub 사용 언어 통계 -->
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codgm&layout=compact&theme=tokyonight&langs_count=6&hide=HTML,CSS&custom_title=My+Favorite+Languages" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
