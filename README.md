@@ -7,6 +7,14 @@
 
 ---
 
+## ✨ Fun Facts About Me
+
+- 🧠 I love studying algorithms.
+- 🚀 The type of person who quickly acquires new skills and puts them into practice as a project!
+- 🌍 I am interested in AI, automation, and platform services by converging various tools.
+
+---
+
 ## 🚀 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Codgm&show_icons=true&theme=tokyonight" alt="Codgm GitHub Stats" />
