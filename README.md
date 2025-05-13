@@ -68,7 +68,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codgm&repo=SE_Term_Project_Team8&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codgm&repo=your-repo-name-2&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codgm&repo=OS_pintos_project1&theme=tokyonight" />
 </p>
 
 ---
