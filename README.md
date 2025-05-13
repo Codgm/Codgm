@@ -10,8 +10,8 @@
 ## ✨ Fun Facts About Me
 
 - 🧠 I love studying algorithms.
-- 🚀 The type of person who quickly acquires new skills and puts them into practice as a project!
-- 🌍 I am interested in AI, automation, and platform services by converging various tools.
+- 🚀 I quickly acquire new skills and turn them into real-world projects!
+- 🌍 I’m passionate about AI, automation, and platform services.
 
 ---
 
@@ -20,6 +20,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Codgm&show_icons=true&theme=tokyonight" alt="Codgm GitHub Stats" />
 </p>
 
+---
+
 ## 🧠 Baekjoon Solved Rank
 <p align="center">
   <a href="https://solved.ac/sgm0922">
@@ -27,12 +29,14 @@
   </a>
 </p>
 
+---
+
 ## 🧑‍💻 Languages & 💬 Most Used Languages
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="50%">
-      <p align="center">
+      <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -46,13 +50,12 @@
   </tr>
 </table>
 
-
 ---
 
 ## 🛠️ Tools & Environments
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
@@ -62,6 +65,7 @@
 ---
 
 ## 📌 Recently Worked On Repositories
+> ⚠️ 직접 수정: 아래 `your-repo-name-1`, `your-repo-name-2`에 실제 레포 이름 입력!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codgm&repo=your-repo-name-1&theme=tokyonight" />
@@ -73,13 +77,13 @@
 ## 📬 Contacts
 <p align="center">
   <a href="https://Codgm.tistory.com/">
-    <img src="https://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=https://Codgm.tistory.com/"/>
+    <img src="https://img.shields.io/badge/Tech%20Blog-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:sgm438@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sgm438@gmail.com"/>
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
   <a href="mailto:sgm0209@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sgm0209@naver.com"/>
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>
   </a>
 </p>
 
